@@ -1,6 +1,9 @@
 
 *{font-family: sans-serif;}
 *{font-size: 25px;}
+*{border: 2px solid red;
+
+}
 div {
 color: white;
 background-color: black;
